@@ -1,0 +1,37 @@
+
+
+#left{
+    min-height: 1000px;
+    float: left;
+    height: 100%;
+    width: 30%;
+    background-color: black;
+    
+}
+
+#video-content{
+    margin-top: 90px;
+    float: left;
+    height: 100%;
+    width: 40%;
+    min-height: 1000px;
+    color: aliceblue;
+    background-color: black;
+
+}
+
+#right{
+    float: right;
+    height: 100%;
+    width: 30%;
+    min-height: 1000px;
+    background-color: black;
+}
+
+#content{
+   
+    min-height: 1000px;
+    max-height: 100%;
+    width: 100%;
+    height: 100%;
+}
